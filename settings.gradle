@@ -1,0 +1,6 @@
+include ':libalog-module'
+include ':libalog'
+include ':libalog-compiler'
+include ':libalog-android'
+include ':app'
+rootProject.name = "ALogger"
